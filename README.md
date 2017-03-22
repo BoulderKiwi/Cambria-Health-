@@ -1,2 +1,3 @@
-# Cambria-Health-
-Predictions on auto price for Cambria Health 
+# Auto Price Predictions 
+
+I used an ensemble technique to imporve R-squared and RMSE for this predictive analytics project. 
